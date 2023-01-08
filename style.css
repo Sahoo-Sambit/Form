@@ -1,12 +1,29 @@
 body{
-    background-color: black;
+    margin-bottom: 500px;
+    background-color: rgb(8, 8, 8);
+    border: 2px solid white;
+    margin-left: 350px;
+    margin-right: 350px;
 }
 form{
+    text-align: center;
     color: white;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 500;
+    font-family: cursive;
+    font-size: x-large;
 }
 h1{
+    text-align: center;
     color: white;
-    font-family:'Times New Roman', Times, serif;
+    font-family: cursive;
+}
+.div{
+    align-items: center;
+}
+button{
+    width: 110px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 25px;
 }
